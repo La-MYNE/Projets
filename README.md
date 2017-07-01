@@ -1,3 +1,3 @@
-#Projects
+# Projects
 
-All about the projects that are supported by la MYNE (powered by La Paillasse Saône)
+Répertoire des projets initiés ou catalysés par les membres de la MYNE.
