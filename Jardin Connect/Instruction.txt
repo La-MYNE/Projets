@@ -1,0 +1,13 @@
+Manque : 
+	- Petits pots
+	- Tuyau 
+
+
+Idées Atelier : 
+
+#Arrosage Auto
+
+	- Télécharger le schéma
+	- Télécharger le code à trou 
+	- Étalonner le capteur avec plusieurs pots ayant un niveau 		  d'humidité différente
+
