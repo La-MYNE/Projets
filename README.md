@@ -3,7 +3,7 @@
 ## Actifs
 * [ArtistYc MYNE](https://pad.lamyne.org/EwTgHALAZgRiDsBaeIDMNHXgNkQQ2AFYAGRbCAE2HjD3gEYBjEYIA===)
 * [Atelier Soudé](https://pad.lamyne.org/EwRgzArALKBGC0VYQIaNgNgAzxSCOAJgOxRQBm5AxlQJxRXBA===)
-* [Hackuaponie](https://pad.lamyne.org/MYUwjMDsYCwgtDJAzRJgAZ4CMAcBWAQ3mQwCZ8ATZS4MDAZlyA==) (recherche citoyenne sur l'aquaponie)
+* [Hackuaponie](https://pad.lamyne.org/MYUwjMDsYCwgtDJAzRJgAZ4CMAcBWAQ3mQwCZ8ATZS4MDAZlyA==)
     * Différentes versions de prototypes : [V1](https://pad.lamyne.org/IwQwzAZgnAbApgJgLTDnAHEgLAVh1JAIzATCTHWgmCnQBMc4wg==), [V2](https://pad.lamyne.org/GYDg7CCsDMYEYFpYFMCMCAsyQBMEEMpoEcdpkBOEAYwDZCAGWoA=), [V3](https://pad.lamyne.org/KzCGFNgEwZgTgLQDMBsSCMCAsAGAHAEwKgDGMSxoUEKJUKw+QA==)
     * [Drechoponik](https://pad.lamyne.org/KYVhDZwIwEwMwLQGYBMMkICwE4kwVFAAyIAcKA7MDKaTFOUUA===) (expérimentations sur les substrats de drêches)
     * [Support huitre](https://pad.lamyne.org/CwUwbGAmqQtADAMwMYCNbEgQ2LAnPAOyGwCMy88AHFYqiAMyKFA=) (expérimentations sur les substrats d'huitre)
