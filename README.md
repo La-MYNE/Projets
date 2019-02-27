@@ -73,7 +73,7 @@
 * [Projet Remix eco design](https://pad.lamyne.org/EwRhGYE5wYwUwLQCMAcJEBYAmWQMgGYYwLgBskwWSWArGeOMEA==) (Oct. 2015)
 * [Production disobutene](https://pad.lamyne.org/GwZgnGCMDsAmsFoBmIQA4EBYCmmDGCaeS0CADJGMJsGdGrMGEA==) (Oct. 2015)
 * [ImaginLab @laMYNE](https://pad.lamyne.org/KwTgpgbALA7ATARgLQEM4GYZKiKUkgAcC6SMwAxgGZQAmARileuhUA==) (Août 2015)
-* WeAreTheProject WAP
+* We Are The Project
 * [Vent d'Est Maker](https://drive.google.com/drive/u/1/folders/0B_W37dBB3K97eWJvQ3VSaDdjeFU?pli=1)  (Janv 2016)
 * [Hugo - Arthégo](https://docs.google.com/document/d/1HyxyNPbtNWHcKqNmyGP_1C-X52f7sGE3_oE7BZQWrks/edit) (Nov. 2015)
 * [Bar à couleur](https://pad.lamyne.org/CwYwrCxg7CC0BOAZgQwEx2ARgMwA44VgAGAEzjACNi1k8clow8g=)
