@@ -60,7 +60,7 @@
 * [Green Ideas Incubator](https://pad.lamyne.org/s/B18lmrykz)
 * [Kuuki capteur citoyens](https://pad.lamyne.org/CwVgZiwIwEYMYFoDsYCmBmBwAMAOKCAhgEwAmYWwhquupM6SqwQA?both)
 * Geo Sapiens
-    * [Cadre de réciprocité 2018](https://pad.lamyne.org/IYExFMFYDYCMCYC0AGSyCciAsIDGlFZcAzWRCAdhFnGmXgGZ4BGIA===?both)
+    * [Cadre de réciprocité](https://pad.lamyne.org/IYExFMFYDYCMCYC0AGSyCciAsIDGlFZcAzWRCAdhFnGmXgGZ4BGIA===?both)
 
 ## Inactifs
 * [Vanne Autonome](https://pad.lamyne.org/MYMwrALA7AbAJnAtAJhgTmIiyAMVEZwiI5pgCMaEYUwEAhnEA===)
