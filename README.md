@@ -32,10 +32,10 @@
     * [Proto V1](https://pad.lamyne.org/OwBgHAbArATALAQwLQFMBGATOS4jmJNAZiIIE4AzBNMAYxAgqOCKA===)
     * [Proto V2](https://pad.lamyne.org/OwFgnADGBGCGwFoBmATYAmBICmTYOmgEYBWBANhGCOFwGMYkQg==)
 * [DAISEE](http://daisee.org) 
-    * [Annuaire de documentation pour contribution](https://pad.lamyne.org/daisee-knowledge)
-    * [Twitter](https://twitter.com/laMYNE_)
-    * [Forum](http://chat.daisee.org)
-    * [GitHub](https://github.com/DAISEE)
+    * [Base de documentation](https://pad.lamyne.org/daisee-knowledge)
+    * [Canal Twitter](https://twitter.com/laMYNE_)
+    * [Forum d'échanges](http://chat.daisee.org)
+    * [Organisation GitHub](https://github.com/DAISEE)
 * [MYNOIS / Celluby](https://pad.lamyne.org/MwFghgTArGAcCMBaAbABgOy0SAZvCiAnBAMZSKgkTLBjoAmOsqQA) : Culture de Kombucha par Jean-Marie
     * [Application combutcha / hackuaponie](https://pad.lamyne.org/EwdgHApgZiDGsFoIBYCGqHLCArAgRlAAwDMCwAjFNhACbC23ICcQA===)
 * [Keisen](https://pad.lamyne.org/EwVhBMCMQQwBgLQHYBmkYICwvEhk44BjBARgDZhyBOSADlIIFMUg) : la poubelle ludique à mégots
