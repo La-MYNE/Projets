@@ -18,7 +18,7 @@
     * [Francis Halle Eloge de la Plante](https://pad.lamyne.org/KzCMCMDN2ATBacBOJA2eAWAhk4jkIDGSGYhATAOypJbBA===)
 * Plantoid Remix
     * [Forest as a DAO](https://pad.lamyne.org/EYFmEYFMQMxhaYAOA7CeICcKAM8kjgBM8cAzAIYAmAxgKwUU4xFA)
-* [MYNeKIDS](https://paper.dropbox.com/doc/Les-MyniKids-Knowledge-Innovation-Distributed-Social--AYMadcyKejrFcJNinkJNP_l5Ag-Yd9ew5kp4XvhGOqXbUg9Y)
+* [MYNiKIDS](https://paper.dropbox.com/doc/Les-MyniKids-Knowledge-Innovation-Distributed-Social--AYMadcyKejrFcJNinkJNP_l5Ag-Yd9ew5kp4XvhGOqXbUg9Y)
     * [ImaginLab](https://pad.lamyne.org/KwTgpgbALA7ATARgLQEM4GYZKiKUkgAcC6SMwAxgGZQAmARileuhUA==)
     * [FreeExpKids](https://pad.lamyne.org/OwZghgjMDGCmAMBaArATngJkQFg2ViqEIEiIGAHMhBACaqyzbJA=)
 * Human Project:
