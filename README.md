@@ -13,9 +13,9 @@
 * [TreeCoach](https://pad.lamyne.org/JwMwbAxmCMAMBGBaAJgZhKxAWVBDAHIrgExqKp4CmArMtbtMAOwhA===)
     * [Treecoach structural option](https://pad.lamyne.org/GwTmFMHYA5gJgLQDMAMJIICwEYCsBDBfAEwCMBjBOAZmsk0xBXGLjiA=)
     * [Establish a dialogue with trees](https://pad.lamyne.org/CwRg7AxsYGwCYFoYE4IFYHAGYA4IICMBDNRCAUzgCY5kxRkiIg==)
-    * [Grow faire pousser des velos](https://pad.lamyne.org/MYZgrARgjAnFBsBaKYAMNEBYDsqAmiE2AhsIiDNjGNgBzwSr5A==)
+    * [Faire pousser des velos](https://pad.lamyne.org/MYZgrARgjAnFBsBaKYAMNEBYDsqAmiE2AhsIiDNjGNgBzwSr5A==)
     * [TREEcoach hormones](https://pad.lamyne.org/GwMwHALGBGzQtAEwAwEYDG8IlQdntBAExhJjjrCICsAzNUQKZA==)
-    * [Francis Halle Eloge de la Plante](https://pad.lamyne.org/KzCMCMDN2ATBacBOJA2eAWAhk4jkIDGSGYhATAOypJbBA===)
+    * [Eloge de la Plante](https://pad.lamyne.org/KzCMCMDN2ATBacBOJA2eAWAhk4jkIDGSGYhATAOypJbBA===)
 * Plantoid Remix
     * [Forest as a DAO](https://pad.lamyne.org/EYFmEYFMQMxhaYAOA7CeICcKAM8kjgBM8cAzAIYAmAxgKwUU4xFA)
 * [MYNiKIDS](https://paper.dropbox.com/doc/Les-MyniKids-Knowledge-Innovation-Distributed-Social--AYMadcyKejrFcJNinkJNP_l5Ag-Yd9ew5kp4XvhGOqXbUg9Y)
