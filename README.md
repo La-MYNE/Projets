@@ -69,7 +69,7 @@
 * [Open SourceBeehive](https://pad.lamyne.org/CzCsDYBNITnBaY4DsxGQBxo5Uz7LgbIBMoApgEYmXAAMQA==)
 * [Fertilisant des sols](https://pad.lamyne.org/IwEwHAzADAZjUFpgE4oDYEBYCsFgOUgEMEoAjbAdjIGM0AmGAUxsyA==) 
 * [Projet ORIGIN](https://pad.lamyne.org/GYYwnATALBAmCGBaAHLA7ANkVEBmEi8uUADISDhmpLGLgIxA)
-* Projet biofiltre (Sept. 2014)
+* Projet biofiltre
 * [Maisons en carton](https://pad.lamyne.org/AwYwZgJgLARmBMBaK0CMyDsICGib2AE48BTYGQgVgDZ4ooMIg===)
 * [Projet Remix eco design](https://pad.lamyne.org/EwRhGYE5wYwUwLQCMAcJEBYAmWQMgGYYwLgBskwWSWArGeOMEA==) 
 * [Production disobutene](https://pad.lamyne.org/GwZgnGCMDsAmsFoBmIQA4EBYCmmDGCaeS0CADJGMJsGdGrMGEA==)
