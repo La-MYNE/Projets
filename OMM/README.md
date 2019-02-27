@@ -2,7 +2,7 @@
 
 ## Présentation en bref 
 
-Open Micro Métha est un projet de micro-méthanisation développé dans le cadre de La Paillasse Saône (aujourd’hui La MYNE). L’objectif était de développer un produit innovant permettant la valorisation de déchets organiques en biogaz à l’échelle de l’immeuble ou du quartier d’habitation, ainsi que les services associés. Ce développement est fait en open-source et "low-tech" afin d’être accessible au plus grand nombre.
+Open Micro Métha est un projet de micro-méthanisation (...). L’objectif était de développer un produit innovant permettant la valorisation de déchets organiques en biogaz à l’échelle de l’immeuble ou du quartier d’habitation, ainsi que les services associés. Ce développement est fait en open-source et "low-tech" afin d’être accessible au plus grand nombre.
 
 ## Pour aller plus loin
 
