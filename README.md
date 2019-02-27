@@ -1,7 +1,7 @@
 # Projects
 
 ## Actifs
-* CréaTEC projects / [ArtistYc MYNE](https://pad.lamyne.org/EwTgHALAZgRiDsBaeIDMNHXgNkQQ2AFYAGRbCAE2HjD3gEYBjEYIA===)
+* [ArtistYc MYNE](https://pad.lamyne.org/EwTgHALAZgRiDsBaeIDMNHXgNkQQ2AFYAGRbCAE2HjD3gEYBjEYIA===)
 * [Atelier Soudé](https://pad.lamyne.org/EwRgzArALKBGC0VYQIaNgNgAzxSCOAJgOxRQBm5AxlQJxRXBA===)
 * [Hackuaponie](https://pad.lamyne.org/MYUwjMDsYCwgtDJAzRJgAZ4CMAcBWAQ3mQwCZ8ATZS4MDAZlyA==) (recherche citoyenne sur l'aquaponie)
     * Différentes versions de prototypes : [V1](https://pad.lamyne.org/IwQwzAZgnAbApgJgLTDnAHEgLAVh1JAIzATCTHWgmCnQBMc4wg==), [V2](https://pad.lamyne.org/GYDg7CCsDMYEYFpYFMCMCAsyQBMEEMpoEcdpkBOEAYwDZCAGWoA=), [V3](https://pad.lamyne.org/KzCGFNgEwZgTgLQDMBsSCMCAsAGAHAEwKgDGMSxoUEKJUKw+QA==)
