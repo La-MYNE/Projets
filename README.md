@@ -54,9 +54,9 @@
 * [Relios](https://pad.lamyne.org/GwVgnADCAsBMwFpoA4AmIkHYIGMEEMxlkEBmaAMytgmMxxyA#)
 * [Anémomètre](https://hackpad.com/Cadre-de-Rciprocit-Diego-Pina-CONSTRUCTION-ANEMOMETRE-aX6KvW04y5B)
 * [Titre à Venir](https://pad.lamyne.org/EwdgLARgbMDGBmBaAJgVmADkWV1EYEYBOKRVMAUwmOVg2GiA)
-    * [Cadre de réciprocité et suivi 2018](https://pad.lamyne.org/KYMwDAbAxgHFEFoCMBDEiAsHhITCArAEwIRgwBGBBUVAzGGEA===#)
+    * [Cadre de réciprocité](https://pad.lamyne.org/KYMwDAbAxgHFEFoCMBDEiAsHhITCArAEwIRgwBGBBUVAzGGEA===#)
     * [Intention(s)](https://pad.lamyne.org/EYUwnAHAhgDAxiAtHCw6ICwwEwDZEQYCMwyAJrmVAMwQS7VHZA)
-    * [Meetup #1](https://pad.lamyne.org/CwDgJgxgZgpgrFAtMAbGMyohoghgBhRUQHZgBOcAZhTgCMoUIg)
+    * [Meetup de lancement](https://pad.lamyne.org/CwDgJgxgZgpgrFAtMAbGMyohoghgBhRUQHZgBOcAZhTgCMoUIg)
 * [Green Ideas Incubator](https://pad.lamyne.org/s/B18lmrykz)
 * [Kuuki capteur citoyens](https://pad.lamyne.org/CwVgZiwIwEYMYFoDsYCmBmBwAMAOKCAhgEwAmYWwhquupM6SqwQA?both)
 * Geo Sapiens
