@@ -80,8 +80,8 @@
 * [Pyrocarb/Pyrocan](http://www.instructables.com/id/Pyrocan-Cuiseur-Biomasse-En-Boites-De-Conserve/)
 
 ## Latents
-* [MYNeXPe](https://pad.lamyne.org/KwTgRgLA7MDMwFoCMxgGMEQAxgGYJAFMBDWBNYCNAJhFmomADYAOIA==) (autonomie en expéditions)
-* [CartoLab](https://pad.lamyne.org/IwZgHAxgJmCsUFooDYAsBOBrkENYJwHYAzHBWAJgCMxgBTKkYsQkIA) (cartographie de réseaux)
+* [MYNeXPe](https://pad.lamyne.org/KwTgRgLA7MDMwFoCMxgGMEQAxgGYJAFMBDWBNYCNAJhFmomADYAOIA==)
+* [CartoLab](https://pad.lamyne.org/IwZgHAxgJmCsUFooDYAsBOBrkENYJwHYAzHBWAJgCMxgBTKkYsQkIA)
 * [Paroles visibles](https://pad.lamyne.org/IYDmCYEZmAGBaAZgTgMwFN4BZm0vYAI0nHgDYBWQ8DZAdixEliA=)
 * [Façade respirante](https://pad.lamyne.org/MwTgLA7ArCAcCmBaATABgIwGNFgGxWUQCMowpEMwjkiQIATeVeoA) 
 * [Saponaire](https://pad.lamyne.org/GYVgDAzAxg7AhnAtGAnAJiQFgEYqSmQ5FEYMEKKbTADmCA==)
