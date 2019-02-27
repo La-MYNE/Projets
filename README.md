@@ -12,7 +12,7 @@
 * [Microscope DIY (Voir)](https://pad.lamyne.org/IYDgrAzAJgZgjAFgLRQKYQExIQBgGxhIg4YDGSEARlAsBMZQOyMRA===)
 * [TreeCoach](https://pad.lamyne.org/JwMwbAxmCMAMBGBaAJgZhKxAWVBDAHIrgExqKp4CmArMtbtMAOwhA===)
     * [Treecoach structural option architecture](https://pad.lamyne.org/GwTmFMHYA5gJgLQDMAMJIICwEYCsBDBfAEwCMBjBOAZmsk0xBXGLjiA=)
-    * [TREE whispering How to establish a dialogue with trees](https://pad.lamyne.org/CwRg7AxsYGwCYFoYE4IFYHAGYA4IICMBDNRCAUzgCY5kxRkiIg==)
+    * [Establish a dialogue with trees](https://pad.lamyne.org/CwRg7AxsYGwCYFoYE4IFYHAGYA4IICMBDNRCAUzgCY5kxRkiIg==)
     * [Grow faire pousser des velos](https://pad.lamyne.org/MYZgrARgjAnFBsBaKYAMNEBYDsqAmiE2AhsIiDNjGNgBzwSr5A==)
     * [TREEcoach hormones](https://pad.lamyne.org/GwMwHALGBGzQtAEwAwEYDG8IlQdntBAExhJjjrCICsAzNUQKZA==)
     * [Francis Halle Eloge de la Plante](https://pad.lamyne.org/KzCMCMDN2ATBacBOJA2eAWAhk4jkIDGSGYhATAOypJbBA===)
